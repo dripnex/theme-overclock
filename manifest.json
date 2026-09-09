@@ -1,0 +1,7 @@
+{
+  "id": "theme-overclock",
+  "name": "Overclock",
+  "version": "0.1.0",
+  "description": "Hacker overclock. Amber heat on graphite.",
+  "main": "dist/index.js"
+}
